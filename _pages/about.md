@@ -22,10 +22,10 @@ Previously, I obtained my bachelor’s degree from Computer Science and Technolo
 # 🔥 News
 - \[2024/3\]: &nbsp;Check our recent works on **visual prompts** for detection and segmentation! A series of works including [DINOv](https://arxiv.org/pdf/2311.13601.pdf) (accepted to CVPR 2024), [T-Rex](https://arxiv.org/abs/2311.13596), and [T-Rex2](https://arxiv.org/abs/2403.14610) have been released.
 - \[2023/9\]: &nbsp;[Mask DINO](https://arxiv.org/pdf/2206.02777.pdf) ranks **9th** among [the most influential CVPR 2023 papers](https://www.paperdigest.org/2023/09/most-influential-cvpr-papers-2023-09/).
+- \[2023/7\]: &nbsp;Two works that focus on interactive segmentation have been released, including [SEEM](https://arxiv.org/pdf/2304.06718.pdf) and [Semantic-SAM](https://arxiv.org/pdf/2307.04767.pdf). Check them out!
 - \[2023/4\]: &nbsp;[DINO](https://arxiv.org/abs/2203.0360) ranks **2nd** among [the most influential ICLR 2023 papers](https://www.paperdigest.org/2023/04/most-influential-iclr-papers-2023-04/).
+- \[2023/3\]: &nbsp;Following DINO, two works that focus on open-set detection and segmentation have been released, including [Grounding DINO](https://arxiv.org/abs/2303.05499) and [OpenSeed](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_A_Simple_Framework_for_Open-Vocabulary_Segmentation_and_Detection_ICCV_2023_paper.pdf). Check them out!
 - \[2023/3\]: &nbsp;[DINO](https://arxiv.org/abs/2203.0360) and [DN-DETR](https://arxiv.org/pdf/2203.01305) are selected as [the top 100 most cited AI papers for 2022](https://www.zeta-alpha.com/post/must-read-the-100-most-cited-ai-papers-in-2022), rank 38 and 53, respectively.
-- \[2023/3\]: &nbsp;Three papers accepted to CVPR 2023! Check out our [Mask DINO](https://arxiv.org/pdf/2206.02777.pdf) , [Lite DETR](https://arxiv.org/pdf/2303.07335.pdf), and [MP-Former](https://arxiv.org/pdf/2303.07336.pdf).
-- \[2023/1\]: &nbsp;Two papers accepted to ICLR 2023! Check out our [DINO](https://arxiv.org/abs/2203.0360) and [ED-Pose](https://arxiv.org/pdf/2302.01593.pdf).
 - \[2022/6\]: &nbsp;A series of works that pushes DETR-based object detection and segmentation models to **SOTA** performance have been released, including [Mask DINO](https://arxiv.org/pdf/2206.02777.pdf), [DINO](https://arxiv.org/abs/2203.03605), [DN-DETR](https://arxiv.org/pdf/2203.01305), [DAB-DETR](https://arxiv.org/abs/2201.12329). Check them out!
 
 
@@ -36,13 +36,13 @@ Refer to my [google scholar](https://scholar.google.com/citations?user=ybRe9GcAA
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
 * **Visual In-Context Prompting**.  
-**Feng Li**, Qing Jiang, Hao Zhang, Tianhe Ren, Shilong Liu, Xueyan Zou, Huaizhe Xu, Hongyang Li, Chunyuan Li, Jianwei Yang, Lei Zhang, Jianfeng Gao
-CVPR 2024.  
+**Feng Li**, Qing Jiang, Hao Zhang, Tianhe Ren, Shilong Liu, Xueyan Zou, Huaizhe Xu, Hongyang Li, Chunyuan Li, Jianwei Yang, Lei Zhang, Jianfeng Gao.  
+CVPR 2024.    
 [[**Paper**]](https://arxiv.org/pdf/2307.04767.pdf)[[**Code**]](https://github.com/UX-Decoder/Semantic-SAM)
 
 * **Semantic-SAM: Segment and Recognize Anything at Any Granularity**.  
-**Feng Li\***, Hao Zhang\*, Peize Sun, Xueyan Zou, Shilong Liu, Jianwei Yang, Chunyuan Li, Lei Zhang, Jianfeng Gao.
-arxiv 2023.  
+**Feng Li\***, Hao Zhang\*, Peize Sun, Xueyan Zou, Shilong Liu, Jianwei Yang, Chunyuan Li, Lei Zhang, Jianfeng Gao.                                   
+arxiv 2023.    
 [[**Paper**]](https://arxiv.org/pdf/2307.04767.pdf)[[**Code**]](https://github.com/UX-Decoder/Semantic-SAM)
 
 * **SEEM: Segment Everything Everywhere All at Once**.  
