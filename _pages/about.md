@@ -20,6 +20,7 @@ Previously, I obtained my bachelor’s degree from Computer Science and Technolo
 
 
 # 🔥 News
+- \[2023/3\]: &nbsp; Check our recent works on **visual prompts** for detection and segmentation! A series of works including [DINOv](https://arxiv.org/pdf/2311.13601.pdf) (accepted to CVPR 2024), [T-Rex](https://arxiv.org/abs/2311.13596), and [T-Rex2](https://arxiv.org/abs/2403.14610) have been released.
 - \[2023/9\]: &nbsp;[Mask DINO](https://arxiv.org/pdf/2206.02777.pdf) ranks **9th** among [the most influential CVPR 2023 papers](https://www.paperdigest.org/2023/09/most-influential-cvpr-papers-2023-09/).
 - \[2023/4\]: &nbsp;[DINO](https://arxiv.org/abs/2203.0360) ranks **2nd** among [the most influential ICLR 2023 papers](https://www.paperdigest.org/2023/04/most-influential-iclr-papers-2023-04/).
 - \[2023/3\]: &nbsp;[DINO](https://arxiv.org/abs/2203.0360) and [DN-DETR](https://arxiv.org/pdf/2203.01305) are selected as [the top 100 most cited AI papers for 2022](https://www.zeta-alpha.com/post/must-read-the-100-most-cited-ai-papers-in-2022), rank 38 and 53, respectively.
@@ -30,13 +31,18 @@ Previously, I obtained my bachelor’s degree from Computer Science and Technolo
 - \[2022/3\]: &nbsp;Our [DN-DETR](https://arxiv.org/pdf/2203.01305) is selected for an **oral** presentation in **CVPR 2022**! Code is now available [here](https://github.com/IDEA-opensource/DN-DETR).
 
 
-# 📝 Recent Works
+# 📝 Selected Works
 Refer to my [google scholar](https://scholar.google.com/citations?user=ybRe9GcAAAAJ&hl=zh-CN) for the full list.
 
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
+* **Visual In-Context Prompting**.  
+**Feng Li**, Qing Jiang, Hao Zhang, Tianhe Ren, Shilong Liu, Xueyan Zou, Huaizhe Xu, Hongyang Li, Chunyuan Li, Jianwei Yang, Lei Zhang, Jianfeng Gao
+CVPR 2024.  
+[[**Paper**]](https://arxiv.org/pdf/2307.04767.pdf)[[**Code**]](https://github.com/UX-Decoder/Semantic-SAM)
+
 * **Semantic-SAM: Segment and Recognize Anything at Any Granularity**.  
-**Feng Li\***, Hao Zhang\*, Peize Sun, Xueyan Zou, Shilong Liu, Jianwei Yang, Chunyuan Li, Lei Zhang, Jianfeng Gao.                 
+**Feng Li\***, Hao Zhang\*, Peize Sun, Xueyan Zou, Shilong Liu, Jianwei Yang, Chunyuan Li, Lei Zhang, Jianfeng Gao.
 arxiv 2023.  
 [[**Paper**]](https://arxiv.org/pdf/2307.04767.pdf)[[**Code**]](https://github.com/UX-Decoder/Semantic-SAM)
 
@@ -49,11 +55,6 @@ NeurIPS 2023.
 Shilong Liu, Zhaoyang Zeng, Tianhe Ren, **Feng Li**, Hao Zhang, Jie Yang, Chunyuan Li, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang.   
 arxiv 2023.  
 [[**Paper**]](https://arxiv.org/abs/2303.05499)[[**Code**]](https://github.com/IDEA-Research/GroundingDINO)
-
-* **Lite DETR: An Interleaved Multi-Scale Encoder for Efficient DETR**.  
-**Feng Li**, Ailing Zeng, Shilong Liu, Hao Zhang, Lei Zhang, Lionel M. Ni.   
-CVPR 2023.  
-[[**Paper**]](https://arxiv.org/pdf/2303.07335.pdf)[[**Code**]](https://github.com/IDEA-Research/Lite-DETR)
 
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
