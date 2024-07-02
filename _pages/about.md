@@ -57,7 +57,7 @@ NeurIPS 2023.
 
 * **Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**.  
 Shilong Liu, Zhaoyang Zeng, Tianhe Ren, **Feng Li**, Hao Zhang, Jie Yang, Chunyuan Li, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang.   
-arxiv 2023.  
+ECCV 2024.  
 [[**Paper**]](https://arxiv.org/abs/2303.05499)[[**Code**]](https://github.com/IDEA-Research/GroundingDINO)
 
 <!-- <div class='paper-box'>
