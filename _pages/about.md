@@ -41,14 +41,24 @@ Refer to my [google scholar](https://scholar.google.com/citations?user=ybRe9GcAA
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
 * **Visual In-Context Prompting**.  
-**Feng Li**, Qing Jiang, Hao Zhang, Tianhe Ren, Shilong Liu, Xueyan Zou, Huaizhe Xu, Hongyang Li, Chunyuan Li, Jianwei Yang, Lei Zhang, Jianfeng Gao.  
+**Feng Li**, Qing Jiang, Hao Zhang, Tianhe Ren, Shilong Liu, Xueyan Zou, Huaizhe Xu, Hongyang Li, Chunyuan Li, Jianwei Yang, Lei Zhang, Jianfeng Gao. 
 CVPR 2024.    
 [[**Paper**]](https://arxiv.org/pdf/2307.04767.pdf)[[**Code**]](https://github.com/UX-Decoder/Semantic-SAM)
+
+* **SoM: Set-of-Mark Visual Prompting for GPT-4V**.  
+Jianwei Yang\*, Hao Zhang\*, **Feng Li\***, Xueyan Zou\*, Chunyuan Li, Jianfeng Gao.                 
+arxiv 2023.  
+[[**Paper**]](https://arxiv.org/pdf/2310.11441.pdf)[[**Code**]](https://github.com/microsoft/SoM)
 
 * **Semantic-SAM: Segment and Recognize Anything at Any Granularity**.  
 **Feng Li\***, Hao Zhang\*, Peize Sun, Xueyan Zou, Shilong Liu, Jianwei Yang, Chunyuan Li, Lei Zhang, Jianfeng Gao.                                   
 ECCV 2024.    
 [[**Paper**]](https://arxiv.org/pdf/2307.04767.pdf)[[**Code**]](https://github.com/UX-Decoder/Semantic-SAM)
+
+* **OpenSeeD: A Simple Framework for Open-Vocabulary Segmentation and Detection**.  
+Hao Zhang\*, **Feng Li\***, Xueyan Zou, Shilong Liu, Chunyuan Li, Jianfeng Gao, Jianwei Yang, Lei Zhang.
+ICCV 2023.  
+[[**Paper**]](https://arxiv.org/abs/2303.08131)[[**Code**]](https://github.com/IDEA-Research/OpenSeeD)
 
 * **SEEM: Segment Everything Everywhere All at Once**.  
 Xueyan Zou\*, Jianwei Yang\*, Hao Zhang\*, **Feng Li\***, Linjie Li, Jianfeng Gao, Yong Jae Lee.   
@@ -60,8 +70,6 @@ Shilong Liu, Zhaoyang Zeng, Tianhe Ren, **Feng Li**, Hao Zhang, Jie Yang, Chunyu
 ECCV 2024.  
 [[**Paper**]](https://arxiv.org/abs/2303.05499)[[**Code**]](https://github.com/IDEA-Research/GroundingDINO)
 
-<!-- <div class='paper-box'>
-<div class='paper-box-text' markdown="1"> -->
 * **Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation**.  
 **Feng Li**\*, Hao Zhang\*, Huaizhe Xu, Shilong Liu, Lei Zhang, Lionel M. Ni, Heung-Yeung Shum.   
 CVPR 2023.  
@@ -77,18 +85,6 @@ ICLR 2023.
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022. **Oral** presentation.   
 [[**Paper**]](https://arxiv.org/pdf/2203.01305)[[**Code**]](https://github.com/FengLi-ust/DN-DETR)
  
-* **DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR**.   
-Shilong Liu, **Feng Li**, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang.    
-International Conference on Learning Representations (ICLR) 2022.    
-[[**Paper**]](https://arxiv.org/abs/2201.12329)[[**Code**]](https://github.com/SlongLiu/DAB-DETR)
-
-<!-- * BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing.   
-Yi-Fan Zhang, Xinglin Zhang, and **Feng Li**.   
-IEEE Internet of Things Journal (JCR Q1).  
-[[**Paper**]](https://fengli-ust.github.io/files/BiCrowd-IOT-J.pdf) -->
-
-<!-- </div>
-</div> -->
 
 _(* denotes equal contribution.)_
 # 🎖 Selected Awards
