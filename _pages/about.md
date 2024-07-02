@@ -41,7 +41,7 @@ Refer to my [google scholar](https://scholar.google.com/citations?user=ybRe9GcAA
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
 * **Visual In-Context Prompting**.  
-**Feng Li**, Qing Jiang, Hao Zhang, Tianhe Ren, Shilong Liu, Xueyan Zou, Huaizhe Xu, Hongyang Li, Chunyuan Li, Jianwei Yang, Lei Zhang, Jianfeng Gao. 
+**Feng Li**, Qing Jiang, Hao Zhang, Tianhe Ren, Shilong Liu, Xueyan Zou, Huaizhe Xu, Hongyang Li, Chunyuan Li, Jianwei Yang, Lei Zhang, Jianfeng Gao.  
 CVPR 2024.    
 [[**Paper**]](https://arxiv.org/pdf/2307.04767.pdf)[[**Code**]](https://github.com/UX-Decoder/Semantic-SAM)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/UX-Decoder/DINOv?style=social">
 
