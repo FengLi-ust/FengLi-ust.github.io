@@ -47,7 +47,7 @@ CVPR 2024.
 
 * **Semantic-SAM: Segment and Recognize Anything at Any Granularity**.  
 **Feng Li\***, Hao Zhang\*, Peize Sun, Xueyan Zou, Shilong Liu, Jianwei Yang, Chunyuan Li, Lei Zhang, Jianfeng Gao.                                   
-arxiv 2023.    
+ECCV 2024.    
 [[**Paper**]](https://arxiv.org/pdf/2307.04767.pdf)[[**Code**]](https://github.com/UX-Decoder/Semantic-SAM)
 
 * **SEEM: Segment Everything Everywhere All at Once**.  
