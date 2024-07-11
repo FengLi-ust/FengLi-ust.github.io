@@ -42,7 +42,7 @@ Refer to my [google scholar](https://scholar.google.com/citations?user=ybRe9GcAA
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
 * **LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models**.  
-**Feng Li**\*, Renrui Zhang\*, Hao Zhang\*, Yuanhan Zhang, Bo Li, Wei Li, Zejun Ma, Chunyuan Li
+**Feng Li**\*, Renrui Zhang\*, Hao Zhang\*, Yuanhan Zhang, Bo Li, Wei Li, Zejun Ma, Chunyuan Li  
 ariv 2024.    
 [[**Paper**]](https://arxiv.org/list/cs.CV/recent)[[**blog**]](https://llava-vl.github.io/blog/2024-06-16-llava-next-interleave/)[[**Code**]](https://github.com/LLaVA-VL/LLaVA-NeXT)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social">
 
