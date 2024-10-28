@@ -52,7 +52,7 @@ Refer to my [google scholar](https://scholar.google.com/citations?user=ybRe9GcAA
 * **LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models**.  
 **Feng Li**\*, Renrui Zhang\*, Hao Zhang\*, Yuanhan Zhang, Bo Li, Wei Li, Zejun Ma, Chunyuan Li  
 arxiv 2024.    
-[[**Paper**]](https://arxiv.org/list/cs.CV/recent)[[**blog**]](https://llava-vl.github.io/blog/2024-06-16-llava-next-interleave/)[[**Code**]](https://github.com/LLaVA-VL/LLaVA-NeXT)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social">
+[[**Paper**]](https://arxiv.org/pdf/2407.07895)[[**blog**]](https://llava-vl.github.io/blog/2024-06-16-llava-next-interleave/)[[**Code**]](https://github.com/LLaVA-VL/LLaVA-NeXT)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social">
 
 * **Visual In-Context Prompting**.  
 **Feng Li**, Qing Jiang, Hao Zhang, Tianhe Ren, Shilong Liu, Xueyan Zou, Huaizhe Xu, Hongyang Li, Chunyuan Li, Jianwei Yang, Lei Zhang, Jianfeng Gao.  
