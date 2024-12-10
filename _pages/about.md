@@ -33,6 +33,8 @@ I anticipate graduating in 2025 and am open to both academic and industrial rese
 
 
 # 🔥 News
+- [Grounding DINO](https://arxiv.org/abs/2303.05499) is selected as the [most influential ECCV 2024 papers](https://www.paperdigest.org/2024/09/most-influential-eccv-papers-2024-09/).
+
 - \[2024/7\]: &nbsp;[LLaVA-Next-Interleave](https://arxiv.org/pdf/2407.07895) is out! We utilize image-text interleaved format to unify multi-image, video, and 3D tasks in one LLM. Check out [blog](https://llava-vl.github.io/blog/2024-06-16-llava-next-interleave/), [train data](https://huggingface.co/datasets/lmms-lab/M4-Instruct-Data), [LLaVA-Interleave Bench](https://huggingface.co/datasets/lmms-lab/LLaVA-NeXT-Interleave-Bench) and [code](https://github.com/LLaVA-VL/LLaVA-NeXT)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social"> to see new capabilities and improved performance! 
 - \[2024/3\]: &nbsp;Check our recent works on **Visual Prompting** for detection and segmentation! A series of works including [DINOv](https://arxiv.org/pdf/2311.13601.pdf)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/UX-Decoder/DINOv?style=social">, [T-Rex/T-Rex2](https://arxiv.org/abs/2311.13596)![Github stars](https://img.shields.io/github/stars/IDEA-Research/T-Rex.svg) have been released.
 - \[2023/9\]: &nbsp;[Mask DINO](https://arxiv.org/pdf/2206.02777.pdf) is selected as [the most influential CVPR 2023 papers](https://www.paperdigest.org/2023/09/most-influential-cvpr-papers-2023-09/).
