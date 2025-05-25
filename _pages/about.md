@@ -34,7 +34,7 @@ I anticipate graduating in 2025 and am open to both academic and industrial rese
 
 # 🔥 News
 
-- \[2024/7\]: &nbsp;[BAGEL](https://github.com/bytedance-seed/BAGEL) is out! An open-source unified model for visual understanding and generation, trained on large‑scale interleaved multimodal data.
+- \[2025/5\]: &nbsp;[BAGEL](https://github.com/bytedance-seed/BAGEL) is out! An open-source unified model for visual understanding and generation, trained on large‑scale interleaved multimodal data.
 - \[2024/9\]: &nbsp;[Grounding DINO](https://arxiv.org/abs/2303.05499) is selected as the [most influential ECCV 2024 papers](https://www.paperdigest.org/2024/09/most-influential-eccv-papers-2024-09/).
 
 - \[2024/7\]: &nbsp;[LLaVA-Interleave](https://arxiv.org/pdf/2407.07895) is out! We utilize image-text interleaved format to unify multi-image, video, and 3D tasks in one LLM. Check out [blog](https://llava-vl.github.io/blog/2024-06-16-llava-next-interleave/), [train data](https://huggingface.co/datasets/lmms-lab/M4-Instruct-Data), [LLaVA-Interleave Bench](https://huggingface.co/datasets/lmms-lab/LLaVA-NeXT-Interleave-Bench) and [code](https://github.com/LLaVA-VL/LLaVA-NeXT)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social"> to see new capabilities and improved performance! 
