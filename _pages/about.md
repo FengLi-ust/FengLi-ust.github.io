@@ -10,9 +10,12 @@ redirect_from:
 
 I'm a final-year PhD student at the [Department of Computer Science & Engineering](https://cse.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/), co-supervised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). Previously, I obtained my bachelor’s degree in Computer Science and Technology, South China University of Science and Technology. 
 
+<!--
 I have interned at [International Digital Economy Academy, Shenzhen](https://idea.edu.cn/) (advised by Prof. [Lei Zhang](https://www.leizhang.org/)), [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/) (advised by Dr. [Jianwei Yang](https://jwyang.github.io/) and Dr. [Chunyuan Li](https://chunyuan.li/)), [ByteDance](https://team.doubao.com/en/?view_from=homepage_tab), and [Meta AI (Facebook AI Research, Menlo Park)](https://research.facebook.com/). 
+-->
+I have interned at [International Digital Economy Academy, Shenzhen](https://idea.edu.cn/), [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/), [Meta AI (FAIR), Menlo Park)](https://research.facebook.com/), and [ByteDance Seed, Shenzhen](https://team.doubao.com/en/?view_from=homepage_tab). 
 
-📌My research focuses on fine-grained visual understanding and multi-modal learning. My previous work can be categorized into three main areas.
+📌My research focuses on multi-modal learning and fine-grained visual understanding. My previous work can be categorized into three main areas.
 - Improve **multi-model LLMs** for understanding and visual generation, like [LLaVA-Next series](https://llava-vl.github.io/blog/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social"> (i.e, [LLaVA-Interleave](https://arxiv.org/pdf/2407.07895) and [LLaVA-OneVision](https://arxiv.org/pdf/2408.03326)) and [BAGEL](https://github.com/bytedance-seed/BAGEL)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/bytedance-seed/BAGEL?style=social">.
 - Enable more **promotable detection and grounding systems**, including
   - Visual in-context prompt, including [DINOv](https://arxiv.org/pdf/2311.13601.pdf)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/UX-Decoder/DINOv?style=social"> and [T-Rex/T-Rex2](https://arxiv.org/abs/2311.13596)![Github stars](https://img.shields.io/github/stars/IDEA-Research/T-Rex.svg).
