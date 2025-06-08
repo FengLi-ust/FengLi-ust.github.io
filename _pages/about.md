@@ -16,17 +16,16 @@ I have interned at [International Digital Economy Academy, Shenzhen](https://ide
 I have interned at [International Digital Economy Academy, Shenzhen](https://idea.edu.cn/), [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/), [Meta AI (FAIR), Menlo Park)](https://research.facebook.com/), and [ByteDance Seed, Shenzhen](https://team.doubao.com/en/?view_from=homepage_tab). 
 
 📌My research focuses on multi-modal learning and fine-grained visual understanding. My previous work can be categorized into three main areas.
-- Improve **multi-model LLMs** for understanding and visual generation, like [LLaVA-Next series](https://llava-vl.github.io/blog/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social"> (i.e, [LLaVA-Interleave](https://arxiv.org/pdf/2407.07895) and [LLaVA-OneVision](https://arxiv.org/pdf/2408.03326)) and [BAGEL](https://github.com/bytedance-seed/BAGEL)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/bytedance-seed/BAGEL?style=social">.
+- Improve **multi-model LLMs** for visual understanding and generation, like [LLaVA-Next series](https://llava-vl.github.io/blog/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social"> (i.e, [LLaVA-Interleave](https://arxiv.org/pdf/2407.07895) and [LLaVA-OneVision](https://arxiv.org/pdf/2408.03326)) and [BAGEL](https://github.com/bytedance-seed/BAGEL)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/bytedance-seed/BAGEL?style=social">.
 - Enable more **promotable detection and grounding systems**, including
   - Visual in-context prompt, including [DINOv](https://arxiv.org/pdf/2311.13601.pdf)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/UX-Decoder/DINOv?style=social"> and [T-Rex/T-Rex2](https://arxiv.org/abs/2311.13596)![Github stars](https://img.shields.io/github/stars/IDEA-Research/T-Rex.svg).
   - Visual geometry prompt, including [SEEM](https://arxiv.org/pdf/2304.06718.pdf)![Github stars](https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once.svg) and [Semantic-SAM](https://arxiv.org/pdf/2307.04767.pdf)![Github stars](https://img.shields.io/github/stars/UX-Decoder/Semantic-SAM.svg).
   - Text prompt, including [OpenSeed](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_A_Simple_Framework_for_Open-Vocabulary_Segmentation_and_Detection_ICCV_2023_paper.pdf)![Github stars](https://img.shields.io/github/stars/IDEA-Research/OpenSeed.svg) and [Grounding DINO](https://arxiv.org/abs/2303.05499)![Github stars](https://img.shields.io/github/stars/IDEA-Research/GroundingDINO.svg).
 - Push **close-set detection and segmentation** performance, including [Mask DINO](https://arxiv.org/pdf/2206.02777.pdf)![Github stars](https://img.shields.io/github/stars/IDEA-Research/MaskDINO.svg), [DINO](https://arxiv.org/abs/2203.03605)![Github stars](https://img.shields.io/github/stars/IDEA-Research/DINO.svg), [DN-DETR](https://arxiv.org/pdf/2203.01305)![Github stars](https://img.shields.io/github/stars/IDEA-Research/DN-DETR.svg), and [DAB-DETR](https://arxiv.org/abs/2201.12329)![Github stars](https://img.shields.io/github/stars/IDEA-Research/DAB-DETR.svg).
 
-
+<!--
 I anticipate graduating in 2025 and am open to both academic and industrial research positions in North America and Asia. If you are interested, please feel free to contact me.
-
-<!-- I am always open to research discussions and collaborations. Feel free to get in touch! -->
+ I am always open to research discussions and collaborations. Feel free to get in touch! -->
 <!-- 
 **Research Interests** -->
 
