@@ -55,10 +55,15 @@ Refer to my [google scholar](https://scholar.google.com/citations?user=ybRe9GcAA
 
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
+* **BAGEL: Emerging Properties in Unified Multimodal Pretraining**.  
+Chaorui Deng\*, Deyao Zhu\*, Kunchang Li\*, Chenhui Gou\*, **Feng Li**\*, Zeyu Wang, Shu Zhong, Weihao Yu, Xiaonan Nie, Ziang Song, Guang Shi, Haoqi Fan\*.
+Arxiv, 2025.    
+[[**Paper**]](https://arxiv.org/abs/2505.14683)[[**Website**]](https://bagel-ai.org/)[[**Code**]](https://github.com/ByteDance-Seed/Bagel)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/bytedance-seed/BAGEL?style=social">
+
 * **LLaVA-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models**.  
 **Feng Li**\*, Renrui Zhang\*, Hao Zhang\*, Yuanhan Zhang, Bo Li, Wei Li, Zejun Ma, Chunyuan Li  
 ICLR 2025.    
-[[**Paper**]](https://arxiv.org/pdf/2407.07895)[[**blog**]](https://llava-vl.github.io/blog/2024-06-16-llava-next-interleave/)[[**Code**]](https://github.com/LLaVA-VL/LLaVA-NeXT)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social">
+[[**Paper**]](https://arxiv.org/pdf/2407.07895)[[**Blog**]](https://llava-vl.github.io/blog/2024-06-16-llava-next-interleave/)[[**Code**]](https://github.com/LLaVA-VL/LLaVA-NeXT)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social">
 
 * **Visual In-Context Prompting**.  
 **Feng Li**, Qing Jiang, Hao Zhang, Tianhe Ren, Shilong Liu, Xueyan Zou, Huaizhe Xu, Hongyang Li, Chunyuan Li, Jianwei Yang, Lei Zhang, Jianfeng Gao.  
