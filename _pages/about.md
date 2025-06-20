@@ -15,7 +15,7 @@ I have interned at [International Digital Economy Academy, Shenzhen](https://ide
 -->
 I have interned at [International Digital Economy Academy, Shenzhen](https://idea.edu.cn/), [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/), [Meta AI (FAIR), Menlo Park](https://research.facebook.com/), and [ByteDance Seed, Shenzhen](https://team.doubao.com/en/?view_from=homepage_tab). 
 
-📌My research focuses on multi-modal learning and fine-grained visual understanding. My previous work can be categorized into three main areas.
+📌My research focuses on multi-modal learning and fine-grained visual understanding. My previous work can be categorized into three main areas:
 - Improve **multi-model LLMs** for visual understanding and generation, like [LLaVA-Next series](https://llava-vl.github.io/blog/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social"> (i.e, [LLaVA-Interleave](https://arxiv.org/pdf/2407.07895) and [LLaVA-OneVision](https://arxiv.org/pdf/2408.03326)) and [BAGEL](https://github.com/bytedance-seed/BAGEL)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/bytedance-seed/BAGEL?style=social">.
 - Enable more **promotable detection and grounding systems**, including
   - Visual in-context prompt, including [DINOv](https://arxiv.org/pdf/2311.13601.pdf)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/UX-Decoder/DINOv?style=social"> and [T-Rex/T-Rex2](https://arxiv.org/abs/2311.13596)![Github stars](https://img.shields.io/github/stars/IDEA-Research/T-Rex.svg).
