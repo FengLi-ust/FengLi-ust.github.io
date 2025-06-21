@@ -56,9 +56,14 @@ Refer to my [google scholar](https://scholar.google.com/citations?user=ybRe9GcAA
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
 * **BAGEL: Emerging Properties in Unified Multimodal Pretraining**.  
-Chaorui Deng\*, Deyao Zhu\*, Kunchang Li\*, Chenhui Gou\*, **Feng Li**\*, Zeyu Wang, Shu Zhong, Weihao Yu, Xiaonan Nie, Ziang Song, Guang Shi, Haoqi Fan\*.
+Chaorui Deng\*, Deyao Zhu\*, Kunchang Li\*, Chenhui Gou\*, **Feng Li**\*, Zeyu Wang, Shu Zhong, Weihao Yu, Xiaonan Nie, Ziang Song, Guang Shi, Haoqi Fan\*.      
 Arxiv, 2025.    
 [[**Paper**]](https://arxiv.org/abs/2505.14683)[[**Website**]](https://bagel-ai.org/)[[**Code**]](https://github.com/ByteDance-Seed/Bagel)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/bytedance-seed/BAGEL?style=social">
+
+* **LLaVA-OneVision: Easy Visual Task Transfer**.   
+Bo Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, **Feng Li**, Hao Zhang, Kaichen Zhang, Yanwei Li, Ziwei Liu, Chunyuan Li.   
+TMLR, 2025.  
+[[**Paper**]](https://arxiv.org/pdf/2408.03326)[[**Website**]](https://llava-vl.github.io/blog/2024-08-05-llava-onevision/)[[**Code**]](https://github.com/LLaVA-VL/LLaVA-NeXT)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social">
 
 * **LLaVA-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models**.  
 **Feng Li**\*, Renrui Zhang\*, Hao Zhang\*, Yuanhan Zhang, Bo Li, Wei Li, Zejun Ma, Chunyuan Li  
@@ -81,7 +86,7 @@ ECCV 2024.
 [[**Paper**]](https://arxiv.org/pdf/2307.04767.pdf)[[**Code**]](https://github.com/UX-Decoder/Semantic-SAM)![Github stars](https://img.shields.io/github/stars/UX-Decoder/Semantic-SAM.svg)
 
 * **OpenSeeD: A Simple Framework for Open-Vocabulary Segmentation and Detection**.  
-Hao Zhang\*, **Feng Li\***, Xueyan Zou, Shilong Liu, Chunyuan Li, Jianfeng Gao, Jianwei Yang, Lei Zhang.
+Hao Zhang\*, **Feng Li\***, Xueyan Zou, Shilong Liu, Chunyuan Li, Jianfeng Gao, Jianwei Yang, Lei Zhang.    
 ICCV 2023.  
 [[**Paper**]](https://arxiv.org/abs/2303.08131)[[**Code**]](https://github.com/IDEA-Research/OpenSeeD)![Github stars](https://img.shields.io/github/stars/IDEA-Research/OpenSeed.svg)
 
