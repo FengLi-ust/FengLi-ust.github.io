@@ -13,7 +13,7 @@ I'm a research scientist at Google DeepMind. Previously, I completed my PhD at [
 <!--
 I have interned at [International Digital Economy Academy, Shenzhen](https://idea.edu.cn/) (advised by Prof. [Lei Zhang](https://www.leizhang.org/)), [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/) (advised by Dr. [Jianwei Yang](https://jwyang.github.io/) and Dr. [Chunyuan Li](https://chunyuan.li/)), [ByteDance](https://team.doubao.com/en/?view_from=homepage_tab), and [Meta AI (Facebook AI Research, Menlo Park)](https://research.facebook.com/). 
 -->
-I have interned at [International Digital Economy Academy, Shenzhen](https://idea.edu.cn/), [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/), [Meta AI (FAIR), Menlo Park](https://research.facebook.com/), and [ByteDance Seed, Shenzhen](https://team.doubao.com/en/?view_from=homepage_tab). 
+I have interned at [IDEA, Shenzhen](https://idea.edu.cn/), [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/), [Meta AI (FAIR), Menlo Park](https://research.facebook.com/), and [ByteDance Seed, Shenzhen](https://team.doubao.com/en/?view_from=homepage_tab). 
 
 <!--
 **Looking for interns and students to work on unified understanding and generation models and world models**. Feel free to contact me if you are interested!
