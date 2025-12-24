@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Research Scientist at Google DeepMind. Previously, I completed my PhD at [HKUST](https://hkust.edu.hk/) [CSE](https://cse.hkust.edu.hk/), co-supervised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). Before that, I obtained my B.Eng. from South China University of Science and Technology. 
+I'm a research scientist at Google DeepMind. Previously, I completed my PhD at [HKUST](https://hkust.edu.hk/) [CSE](https://cse.hkust.edu.hk/), co-supervised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). Before that, I obtained my B.Eng. from South China University of Science and Technology. 
 
 <!--
 I have interned at [International Digital Economy Academy, Shenzhen](https://idea.edu.cn/) (advised by Prof. [Lei Zhang](https://www.leizhang.org/)), [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/) (advised by Dr. [Jianwei Yang](https://jwyang.github.io/) and Dr. [Chunyuan Li](https://chunyuan.li/)), [ByteDance](https://team.doubao.com/en/?view_from=homepage_tab), and [Meta AI (Facebook AI Research, Menlo Park)](https://research.facebook.com/). 
